@@ -1,6 +1,6 @@
 {
   "name": "node-events-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a wrapper library for native Node Events npm package",
   "main": "index.ts",
   "scripts": {
