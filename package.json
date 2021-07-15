@@ -27,5 +27,8 @@
   },
   "devDependencies": {
     "@types/node": "^16.3.2"
+  },
+  "dependencies": {
+    "crypto-random-string": "^4.0.0"
   }
 }
