@@ -1,0 +1,31 @@
+{
+  "name": "node-events-lite",
+  "version": "1.0.0",
+  "description": "This is a wrapper library for native Node Events npm package",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgupta83/node-events-lite.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "node-events",
+    "events"
+  ],
+  "author": "Mohit Gupta <mgupta.83@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgupta83/node-events-lite/issues"
+  },
+  "homepage": "https://github.com/mgupta83/node-events-lite#readme",
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.3.2"
+  }
+}
