@@ -2,6 +2,7 @@
   "name": "node-events-lite",
   "version": "1.0.1",
   "description": "This is a wrapper library for native Node Events npm package",
+  "type": "module",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
